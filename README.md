@@ -1,5 +1,17 @@
-<h1 align="left">Hola Mundo!</h1>
-<h4 align="left">Soy Desarrollador Full Stack Developer</h4>
+<h1 align="center">Hola Mundo!</h1>
+<h3 align="center">Soy Desarrollador Full Stack Developer</h3>
+
+## 🙋‍♂️ About Me
+
+- 🔭 Actualmente estoy trabajando en [Puppy Point](https://puppypoint.vercel.app/)
+
+- 🌱 Actualmente estoy aprendiendo **styled-components**
+
+- 📫 Como contactarme **sheko1999@live.com.mx**
+
+- ⚡ Dato curioso **Me gusta jugar videojuegos y ajedrez**
+
+<br/>
 
 ## ⚙️ Languages and Tools:
 
@@ -44,6 +56,17 @@ Se realizo en equipo con otras 4 personas mas, utilizando la metodologia SCRUM.
 
 <br/>
 <img src='https://res.cloudinary.com/puppy-point/image/upload/v1653413883/projects/puppypoint_hiqylo.png'  alt="puppy point" />
+
+<br/>
+
+### Dogs App
+Dogs App se puede mostrar las diferentes razas de perros que hay y sus respectivos temperamentos (todo esto consumiendo una api).
+
+- Backend: Node JS, Express JS, Sequelize, Postgres, Axios
+- Frontend: React JS, Redux, CSS Modules, React-router-DOM, Redux Thunk
+
+<br/>
+<img src='https://photos.google.com/search/_tra_/photo/AF1QipNN94DSliJslKThlTbZMig5IvI0WfvvFaZk8_y4'  alt="dogs app" />
 
 <br/>
   
