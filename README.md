@@ -53,7 +53,7 @@ Se realizo en equipo con otras 4 personas mas, utilizando la metodologia SCRUM.
 - Frontend: React JS, Redux, Chakra UI, Chart JS, Geolocation, Mercado Pago, Axios, React-router-DOM, Redux Thunk
 
 <br/>
-<img src='https://res.cloudinary.com/puppy-point/image/upload/v1653413883/projects/puppypoint_hiqylo.png'  alt="puppy point" />
+<img src='https://1drv.ms/u/s!AsfQ8x4KQQs_jlEpXMWLAAHVv1ag'  alt="puppy point" />
 
 <br/>
 
