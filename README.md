@@ -64,7 +64,7 @@ Dogs App se puede mostrar las diferentes razas de perros que hay y sus respectiv
 - Frontend: React JS, Redux, CSS Modules, React-router-DOM, Redux Thunk
 
 <br/>
-<img src=''  alt="dogs app" />
+<img src='https://onedrive.live.com/?v=photos&cid=3F0B410A1EF3D0C7&id=3F0B410A1EF3D0C7%211873&parId=root&parQt=allmyphotos&o=OneUp'  alt="dogs app" />
 
 <br/>
   
