@@ -43,7 +43,7 @@
 
 <br/>
 
-## 🚀 Projects:
+## 🚀 Projectos:
 
 ### Puppy Point
 Puppy Point es una app que conecta a paseadores con usuarios con mascota que necesitan el servicio de paseo.
