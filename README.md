@@ -1,7 +1,7 @@
 <h1 align="center">Hola Mundo!</h1>
 <h3 align="center">Soy Desarrollador Full Stack Developer</h3>
 
-## 🙋‍♂️ About Me
+## 🗣️ About Me
 
 - 🔭 Actualmente estoy trabajando en mi Dogs App mejorandola
 
