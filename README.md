@@ -10,6 +10,7 @@
 
 ### Puppy Point
 Puppy Point es una app que conecta a paseadores con usuarios con mascota que necesitan el servicio de paseo.
+Se realizo en equipo con otras 4 personas mas, utilizando la metodologia SCRUM.
 
 - Backend: Node JS, Express JS, Sequelize, Postgres, Mercado Pago, Nodemailer, Handlebars, JWT, Axios
 - Frontend: React JS, Redux, Chakra UI, Chart JS, Geolocation, Mercado Pago, Axios, React-router-DOM, Redux Thunk
