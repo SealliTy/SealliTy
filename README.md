@@ -1,11 +1,11 @@
 <h1 align="center">Hola Mundo!</h1>
 <h3 align="center">Soy Desarrollador Full Stack Developer</h3>
 
-## 🗣️ About Me
+## 👤 Acerca de
 
-- 🔭 Actualmente estoy trabajando en mi Dogs App mejorandola
+- 🖥️ Actualmente estoy trabajando en mi Dogs App mejorandola
 
-- 📫 Como contactarme **sheko1999@live.com.mx**
+- 📩 Como contactarme **sheko1999@live.com.mx**
 
 - ⚡ Dato curioso **Me gusta jugar videojuegos y ajedrez**
 
