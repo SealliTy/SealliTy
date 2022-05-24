@@ -3,9 +3,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Actualmente estoy trabajando en [Puppy Point](https://puppypoint.vercel.app/)
-
-- 🌱 Actualmente estoy aprendiendo **styled-components**
+- 🔭 Actualmente estoy trabajando en mi Dogs App mejorandola
 
 - 📫 Como contactarme **sheko1999@live.com.mx**
 
@@ -66,7 +64,7 @@ Dogs App se puede mostrar las diferentes razas de perros que hay y sus respectiv
 - Frontend: React JS, Redux, CSS Modules, React-router-DOM, Redux Thunk
 
 <br/>
-<img src='https://photos.google.com/search/_tra_/photo/AF1QipNN94DSliJslKThlTbZMig5IvI0WfvvFaZk8_y4'  alt="dogs app" />
+<img src=''  alt="dogs app" />
 
 <br/>
   
