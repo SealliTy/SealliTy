@@ -3,7 +3,7 @@
 
 ## 👤 Acerca de
 
-- 🖥️ Actualmente estoy trabajando en mi Dogs App mejorandola
+- 🖥️ Actualmente estoy trabajando en mejorar mi App Dogs
 
 - 📩 Como contactarme **sheko1999@live.com.mx**
 
