@@ -46,6 +46,7 @@
 ## 🚀 Proyectos:
 
 ### Puppy Point
+Link: https://puppypoint.vercel.app/
 Puppy Point es una app que conecta a paseadores con usuarios con mascota que necesitan el servicio de paseo.
 Se realizo en equipo con otras 4 personas mas, utilizando la metodologia SCRUM.
 
@@ -58,6 +59,7 @@ Se realizo en equipo con otras 4 personas mas, utilizando la metodologia SCRUM.
 <br/>
 
 ### Dogs App
+Link: https://pi-dogs-eosin.vercel.app/
 Dogs App se puede mostrar las diferentes razas de perros que hay y sus respectivos temperamentos (todo esto consumiendo una api).
 
 - Backend: Node JS, Express JS, Sequelize, Postgres, Axios
