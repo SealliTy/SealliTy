@@ -1,13 +1,13 @@
 <h1 align="center">Hola Mundo!</h1>
-<h3 align="center">Soy Desarrollador Full Stack Developer</h3>
+<h3 align="center">Soy Desarrollador Frontend</h3>
 
 ## 👤 Acerca de
 
-- 🖥️ Actualmente estoy trabajando en mejorar mi App Dogs
+- 🖥️ Actualmente estoy trabajando como Frontend Developer, en mi tiempo libre le dedico tiempo a mi proyecto personal y en aprender backend.
 
 - 📩 Como contactarme **sheko1999@live.com.mx**
 
-- ⚡ Dato curioso **Me gusta jugar videojuegos y ajedrez**
+- ⚡ Dato curioso **Apasionado, autodidacta y trabajo en equipo**
 
 <br/>
 
