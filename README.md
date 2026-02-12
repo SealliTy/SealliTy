@@ -1,80 +1,123 @@
-<h1 align="center">Hola Mundo!</h1>
-<h3 align="center">Soy Desarrollador Frontend</h3>
-
-## 👤 Acerca de
-
-- 🖥️ Actualmente estoy trabajando como Frontend Developer, en mi tiempo libre le dedico tiempo a mi proyecto personal y en aprender backend.
-
-- 📩 Como contactarme **sheko1999@live.com.mx**
-
-- ⚡ Dato curioso **Apasionado, autodidacta y trabajo en equipo**
-
-<br/>
-
-## ⚙️ Languages and Tools:
-
-<p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="40" height="40"/> 
-</a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs" width="40" height="40"/> 
-</a> 
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-</a>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-</a> 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=2E9EFF&center=true&vCenter=true&width=800&lines=Sergio+Sanchez;Software+Engineer+%7C+Fullstack+Developer;Construyendo+sistemas+que+resuelven+problemas+reales;React+%7C+Next.js+%7C+Node+%7C+TypeScript" />
 </p>
 
-<br/>
+---
 
-## 🚀 Proyectos:
+## 👨‍💻 Sobre mí
 
-### Puppy Point
-Link: https://puppypoint.vercel.app/ <br />
-Puppy Point es una app que conecta a paseadores con usuarios con mascota que necesitan el servicio de paseo.
-Se realizo en equipo con otras 4 personas mas, utilizando la metodologia SCRUM.
+Soy **Fullstack Developer** enfocado en construir sistemas que simplifican procesos, optimizan operaciones y generan resultados reales.
+Me especializo en desarrollar software basado en **necesidades reales**, combinando experiencia técnica, pensamiento lógico y enfoque en producto.
 
-- Backend: Node JS, Express JS, Sequelize, Postgres, Mercado Pago, Nodemailer, Handlebars, JWT, Axios
-- Frontend: React JS, Redux, Chakra UI, Chart JS, Geolocation, Mercado Pago, Axios, React-router-DOM, Redux Thunk
+Trabajo principalmente con tecnologías modernas del ecosistema web, creando soluciones eficientes, escalables y centradas en el usuario.
 
-<br/>
-<img src='https://res.cloudinary.com/puppy-point/image/upload/v1653413883/projects/puppypoint_hiqylo.png'  alt="puppy point" />
+---
 
-<br/>
+## 🛠 Tecnologías & Herramientas
 
-### Dogs App
-Link: https://pi-dogs-eosin.vercel.app/ <br />
-Dogs App se puede mostrar las diferentes razas de perros que hay y sus respectivos temperamentos (todo esto consumiendo una api).
+### Frontend
 
-- Backend: Node JS, Express JS, Sequelize, Postgres, Axios
-- Frontend: React JS, Redux, CSS Modules, React-router-DOM, Redux Thunk
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=next.js\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
 
-<br/>
-<img src='https://res.cloudinary.com/seallity/image/upload/v1653426888/React_App_-_Google_Chrome_24_05_2022_04_10_28_p._m._tkelgv_xmscex.png'  alt="dogs app" />
+### Backend
 
-<br/>
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat\&logo=supabase\&logoColor=white)
+
+### Cloud & Dev
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat\&logo=microsoftazure\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+
+### Automatización / IA
+
+![AI](https://img.shields.io/badge/AI-Automation-black?style=flat)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## 🧠 Enfoque
+
+* Resolver problemas reales con software
+* Pensamiento de ingeniería + enfoque en producto
+* Sistemas escalables y mantenibles
+* Automatización y optimización de procesos
+* Aprendizaje continuo
+
+---
+
+## 🌐 Conecta conmigo
+
+<p>
+  <a href="https://portfolio-seallitys-projects.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   
-<br/>  
-<h3 align="left">  🌐 Connect with me :</h3>  
-<br/>  
-<div>
-<a href="https://www.linkedin.com/in/seallity" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>
+  <a href="https://www.linkedin.com/in/seallity">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🚀 Proyecto Destacado
+
+### Balancea — Plataforma de gestión financiera
+
+Aplicación enfocada en ayudar a gestionar finanzas personales de forma clara, automatizada y eficiente.
+Diseñada con enfoque en producto real, escalabilidad y experiencia de usuario.
+
+**Tech Stack**
+
+* Next.js
+* Supabase
+* TypeScript
+* Arquitectura moderna
+
+<a href="https://balancea-financial.vercel.app/">
+  <img src="https://img.shields.io/badge/Balancea-Financial%20Platform-000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+---
+
+## 🧠 Mentalidad de Ingeniería
+
+Me enfoco en construir software que no solo funcione, sino que **resuelva problemas reales de forma eficiente y escalable**.
+Creo en la simplicidad, la claridad del código y la mejora continua como pilares para crear sistemas sólidos.
+
+**Principios**
+
+* Pensamiento lógico y resolución de problemas
+* Código limpio y mantenible
+* Enfoque en producto y valor real
+* Optimización y automatización de procesos
+* Aprendizaje continuo
+
+---
+
+## 🚧 Actualmente construyendo
+
+**Balancea — Financial Management Platform**
+
+Plataforma enfocada en simplificar la gestión financiera personal mediante automatización, insights y control claro del flujo de dinero.
+
+📌 En desarrollo activo
+📈 Evolucionando hacia producto real
+🧠 Enfocado en arquitectura, experiencia de usuario y escalabilidad
+
+---
+
+## ⚡ Actualmente enfocado en
+
+* Mejorar habilidades de arquitectura y backend
+* Evolución de Balancea como producto real
+* Ingeniería de software aplicada a problemas reales
+* Optimización, automatización y sistemas escalables
+
+---
+
+<p align="center">
+  <i>Construyendo software con propósito.</i>
+</p>
